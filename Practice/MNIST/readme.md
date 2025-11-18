@@ -1,5 +1,7 @@
 # LeNet의 구현
 
+# Score: 0.98400
+
 ## 배운 점
 - Dataloader 사용법
 - LeNet 구현
